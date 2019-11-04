@@ -1,0 +1,33 @@
+
+POLICY: 566
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: IMU
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","10am", "10pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 567
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: HRV
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","11am", "11pm")
+    LocationAt("latlong","34.070143", "-118.444720")
+    TimeGreaterThan("Date","11/20/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    ("Group Clustering Data", "Tracking Friends")

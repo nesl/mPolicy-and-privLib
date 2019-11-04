@@ -1,0 +1,15 @@
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: IMU
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
