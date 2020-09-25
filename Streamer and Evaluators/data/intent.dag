@@ -1,0 +1,19 @@
+{
+  "INTENTS":
+  [
+    {"INDIVIDUAL_CALCULATIONS":
+    [
+      {"GPS_CALCULATIONS": [
+        "Recommending Points of Interest",
+        "Finding Commonly Frequented Locations"
+      ]},
+      {"MISC_CALCULATIONS": [
+
+      ]}
+    ]},
+    {"GROUP_CALCULATIONS":
+    [
+
+    ]}
+  ]
+}

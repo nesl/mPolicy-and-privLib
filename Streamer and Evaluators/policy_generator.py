@@ -24,7 +24,7 @@ new_policy_filename, new_policy_id, num_copies=5):
 
 
 # Generate policies of chosen size
-num_policies = [100000]
+num_policies = [100]
 filedir = "policies/"
 policy_example_filename = "policy_example.txt"
 policy_id = 566

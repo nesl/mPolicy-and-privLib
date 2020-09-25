@@ -1,0 +1,1700 @@
+
+POLICY: 566
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 567
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 568
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 569
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 570
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 571
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 572
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 573
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 574
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 575
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 576
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 577
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 578
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 579
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 580
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 581
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 582
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 583
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 584
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 585
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 586
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 587
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 588
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 589
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 590
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 591
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 592
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 593
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 594
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 595
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 596
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 597
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 598
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 599
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 600
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 601
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 602
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 603
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 604
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 605
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 606
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 607
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 608
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 609
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 610
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 611
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 612
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 613
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 614
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 615
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 616
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 617
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 618
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 619
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 620
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 621
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 622
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 623
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 624
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 625
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 626
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 627
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 628
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 629
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 630
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 631
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 632
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 633
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 634
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 635
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 636
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 637
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 638
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 639
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 640
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 641
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 642
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 643
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 644
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 645
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 646
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 647
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 648
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 649
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 650
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 651
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 652
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 653
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 654
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 655
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 656
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 657
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 658
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 659
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 660
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 661
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 662
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 663
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 664
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 665
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","9am", "9pm")
+    LocationAt("latlong","34.062497", "-118.447253")
+    TimeGreaterThan("Date","12/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")

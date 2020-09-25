@@ -1,0 +1,60 @@
+POLICY: 123
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: GPS
+  DATA-WINDOW:
+    ALL:
+      TimeRange("12hr","9am", "9pm")
+      LocationAt("latlong","34.062497", "-118.447253")
+      TimeGreaterThan("Date","12/31/2019")
+      ButtonPress()
+  DATA-METHODS:
+    ALL:
+      CoarseGPSFilter()
+  ALLOWED-OPERATIONS-INTENTS:
+    ALL:
+      ("Clustering Data", "Recommending Points of Interest")
+      NOT ("Statistical Analysis", "Finding Commonly Frequented Locations")
+    NONE:
+      ("Group Clustering Data", "Tracking Friends")
+
+  DOWNSTREAM:
+    POLICY: 123-1
+    ENTITY: HHS
+    ENTITY-TYPE: Government
+      DATA-WINDOW:
+        ALL:
+          NOT LocationAt("latlong","34.062497", "-118.447253")
+      DATA-METHODS:
+      ALLOWED-OPERATIONS-INTENTS:
+        ANY:
+          NOT ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+POLICY: 124
+ENTITY: MayoClinic
+ENTITY-TYPE: Hospital
+DATA-STREAM-TYPE: IMU
+DATA-WINDOW:
+  ALL:
+    TimeRange("12hr","10am", "8pm")
+    LocationAt("latlong","34.070143", "-118.444720")
+    TimeGreaterThan("Date","11/30/2019")
+DATA-METHODS:
+  ALL:
+    CoarseGPSFilter()
+ALLOWED-OPERATIONS-INTENTS:
+  ANY:
+    NOT ("Clustering Data", "Recommending Points of Interest")
+    ("Statistical Analysis", "Finding Commonly Frequented Locations")
+
+DOWNSTREAM:
+  POLICY: 124-1
+  ENTITY: HHS
+  ENTITY-TYPE: Government
+    DATA-WINDOW:
+      ALL:
+        NOT LocationAt("latlong","34.062497", "-118.447253")
+    DATA-METHODS:
+    ALLOWED-OPERATIONS-INTENTS:
+      ANY:
+        NOT ("Statistical Analysis", "Finding Commonly Frequented Locations")
