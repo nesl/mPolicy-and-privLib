@@ -7,15 +7,15 @@ different policies.
 ### Requirements and Installation
 
 For Java Requirements you will need:
-java 11.0.5 2019-10-15 LTS
-Java(TM) SE Runtime Environment 18.9 (build 11.0.5+10-LTS)
-Eclipse IDE
-You will also require java-json.jar, which you can acquire from https://mvnrepository.com/artifact/org.json/json/20140107
+* java 11.0.5 2019-10-15 LTS
+* Java(TM) SE Runtime Environment 18.9 (build 11.0.5+10-LTS)
+* Eclipse IDE
+* You will also require java-json.jar, which you can acquire from https://mvnrepository.com/artifact/org.json/json/20140107
 
 For Python requirements, you will need to install all requirements under "Streamers and Evaluators"/requirements.txt
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### Setting up the Eclipse project
 The main requirement here is include the java-json.jar in the project.  To do this, click on the "Project Explorer" tab, right click on the 'privLib' project, and select "Properties".  Under the Java build path, add/edit the modulepath for java-json.jar to the where it was downloaded.
